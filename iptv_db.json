@@ -1,0 +1,17 @@
+{
+  "admin": {
+    "valid_license_code": "jade2016",
+    "days_remaining": 240,
+    "support_whatsapp": "447529440635"
+  },
+  "channels": [
+    { "name": "🏆 FIFA WORLD CUP TV 1 HD", "category": "worldcup", "languages": ["fr", "ar", "en"], "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8" },
+    { "name": "🏆 COUPE DU MONDE FR Média", "category": "worldcup", "languages": ["fr"], "url": "https://playertest.longtailvideo.com/adaptive/bipbop/bipbop.m3u8" },
+    { "name": "📺 CANAL+ PREMIUM FR", "category": "canal", "languages": ["fr"], "url": "https://playertest.longtailvideo.com/adaptive/bipbop/bipbop.m3u8" },
+    { "name": "📺 CANAL+ SPORT AFRIQUE", "category": "canal", "languages": ["fr"], "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8" },
+    { "name": "⚽ beIN SPORTS 1 FR", "category": "bein", "languages": ["fr"], "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8" },
+    { "name": "⚽ beIN SPORTS Premium 1 AR", "category": "bein", "languages": ["ar"], "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8" },
+    { "name": "🇫🇷 TF1 HD FRANCE", "category": "general", "languages": ["fr"], "url": "https://playertest.longtailvideo.com/adaptive/bipbop/bipbop.m3u8" },
+    { "name": "🇸🇦 MBC 1 ARABE", "category": "general", "languages": ["ar"], "url": "https://playertest.longtailvideo.com/adaptive/bipbop/bipbop.m3u8" }
+  ]
+}
