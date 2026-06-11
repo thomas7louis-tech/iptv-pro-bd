@@ -1,17 +1,25 @@
 {
-  "admin": {
-    "valid_license_code": "jade2016",
-    "days_remaining": 240,
+  "admin_master": {
+    "login": "jade2016",
+    "confirmation_name": "thomas louis",
+    "days_remaining": "infini",
     "support_whatsapp": "447529440635"
   },
+  "resellers": [
+    { "id": "adm0001", "name": "omar", "credits": 50 },
+    { "id": "adm0002", "name": "kevin", "credits": 20 }
+  ],
+  "active_licenses": [
+    { "code": "M61234567", "owner_reseller": "master", "days": 30, "hardware_uid": "L-IPTV-X9F2B4-A8E1", "user_name": "Client Exemple FR" }
+  ],
   "channels": [
-    { "name": "🏆 FIFA WORLD CUP TV 1 HD", "category": "worldcup", "languages": ["fr", "ar", "en"], "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8" },
-    { "name": "🏆 COUPE DU MONDE FR Média", "category": "worldcup", "languages": ["fr"], "url": "https://playertest.longtailvideo.com/adaptive/bipbop/bipbop.m3u8" },
-    { "name": "📺 CANAL+ PREMIUM FR", "category": "canal", "languages": ["fr"], "url": "https://playertest.longtailvideo.com/adaptive/bipbop/bipbop.m3u8" },
-    { "name": "📺 CANAL+ SPORT AFRIQUE", "category": "canal", "languages": ["fr"], "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8" },
     { "name": "⚽ beIN SPORTS 1 FR", "category": "bein", "languages": ["fr"], "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8" },
     { "name": "⚽ beIN SPORTS Premium 1 AR", "category": "bein", "languages": ["ar"], "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8" },
-    { "name": "🇫🇷 TF1 HD FRANCE", "category": "general", "languages": ["fr"], "url": "https://playertest.longtailvideo.com/adaptive/bipbop/bipbop.m3u8" },
-    { "name": "🇸🇦 MBC 1 ARABE", "category": "general", "languages": ["ar"], "url": "https://playertest.longtailvideo.com/adaptive/bipbop/bipbop.m3u8" }
+    { "name": "📺 CANAL+ PREMIUM FR", "category": "canal_afrique_europe", "languages": ["fr"], "url": "https://playertest.longtailvideo.com/adaptive/bipbop/bipbop.m3u8" },
+    { "name": "📺 CANAL+ SPORT AFRIQUE", "category": "canal_afrique_europe", "languages": ["fr"], "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8" },
+    { "name": "🎬 NETFLIX ACTION HD", "category": "streaming_platforms", "languages": ["fr", "en"], "url": "https://playertest.longtailvideo.com/adaptive/bipbop/bipbop.m3u8" },
+    { "name": "🍿 PRIME VIDEO POPCORN", "category": "streaming_platforms", "languages": ["fr"], "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8" },
+    { "name": "🏰 DISNEY+ FAMILY TOON", "category": "streaming_platforms", "languages": ["fr", "en"], "url": "https://playertest.longtailvideo.com/adaptive/bipbop/bipbop.m3u8" },
+    { "name": "🔞 PRIVE X ADULTE 18+", "category": "adult", "languages": ["fr", "en"], "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8" }
   ]
 }
