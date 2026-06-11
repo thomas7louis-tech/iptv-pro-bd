@@ -30,8 +30,9 @@
       "code": "M61234567",
       "owner_reseller": "master",
       "days": 30,
-      "hardware_uid": "",
-      "user_name": "Client Exemple FR"
+      "hardware_uid": "L-IPTV-ESBI8O32OX",
+      "user_name": "Client Exemple FR",
+      "activation_date": "2026-06-11"
     }
   ],
   "channels": [
