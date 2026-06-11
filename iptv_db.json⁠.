@@ -44,7 +44,11 @@
     }
   ],
   "channels": [
-    { "name": "France 2", "url": "https://example.com/flux.m3u8", "category": "france" }
+    {
+      "name": "France 2",
+      "url": "https://example.com/flux.m3u8",
+      "category": "france"
+    }
   ],
   "external_playlist": "https://iptv-org.github.io/iptv/index.m3u"
 }
