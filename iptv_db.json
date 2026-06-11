@@ -6,16 +6,66 @@
     "support_whatsapp": "447529440635"
   },
   "resellers": [
-    { "id": "adm0001", "name": "omar", "credits": 50 },
-    { "id": "adm0002", "name": "kevin", "credits": 20 }
+    {
+      "id": "adm0001",
+      "name": "omar",
+      "credits": 50
+    },
+    {
+      "id": "adm0002",
+      "name": "kevin",
+      "credits": 20
+    }
   ],
   "active_licenses": [
-    { "code": "M61234567", "owner_reseller": "master", "days": 30, "hardware_uid": "", "user_name": "Client Exemple FR" }
+    {
+      "code": "M67005215",
+      "owner_reseller": "master",
+      "duration_months": 1,
+      "activation_date": "",
+      "hardware_uid": "",
+      "user_name": "Jade"
+    },
+    {
+      "code": "M61234567",
+      "owner_reseller": "master",
+      "days": 30,
+      "hardware_uid": "",
+      "user_name": "Client Exemple FR"
+    }
   ],
   "channels": [
-    { "name": "🏆 FIFA WORLD CUP TV 1 HD", "category": "bein", "languages": ["fr"], "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8" },
-    { "name": "🏆 COUPE DU MONDE FR Média", "category": "bein", "languages": ["fr"], "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8" },
-    { "name": "📺 CANAL+ PREMIUM FR", "category": "canal_afrique_europe", "languages": ["fr"], "url": "https://playertest.longtailvideo.com/adaptive/bipbop/bipbop.m3u8" },
-    { "name": "📺 CANAL+ SPORT AFRIQUE", "category": "canal_afrique_europe", "languages": ["fr"], "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8" }
+    {
+      "name": "🏆 FIFA WORLD CUP TV 1 HD",
+      "category": "bein",
+      "languages": [
+        "fr"
+      ],
+      "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
+    },
+    {
+      "name": "🏆 COUPE DU MONDE FR Média",
+      "category": "bein",
+      "languages": [
+        "fr"
+      ],
+      "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
+    },
+    {
+      "name": "📺 CANAL+ PREMIUM FR",
+      "category": "canal_afrique_europe",
+      "languages": [
+        "fr"
+      ],
+      "url": "https://playertest.longtailvideo.com/adaptive/bipbop/bipbop.m3u8"
+    },
+    {
+      "name": "📺 CANAL+ SPORT AFRIQUE",
+      "category": "canal_afrique_europe",
+      "languages": [
+        "fr"
+      ],
+      "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
+    }
   ]
 }
